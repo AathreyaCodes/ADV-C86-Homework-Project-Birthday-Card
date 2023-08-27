@@ -1,0 +1,15 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size: 1930px 1330px;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: whitesmoke;
+    border-style: ridge;
+    border-color: #012aa6;
+}
+
